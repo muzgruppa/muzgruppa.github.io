@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'beer_money';
+    src: url('/assets/fonts/beer_money.eot');
+    src: url('/assets/fonts/beer_money.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/beer_money.woff') format('woff'),
+         url('/assets/fonts/beer_money.ttf') format('truetype');
+}
+
+.header{
+  font-size: 3em;
+  font-family: 'beer_money', Open Sans, Calibri, Candara, Arial, sans-serif;
+  color: inherit;
+  text-align: center;
+}
+.navbar{
+	font-family: 'beer_money', Open Sans, Calibri, Candara, Arial, sans-serif;
+	font-size: 20px;
+}
